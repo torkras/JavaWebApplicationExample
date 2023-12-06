@@ -3,7 +3,7 @@
 	<head><title>Actividad 2. Servlets y JSP - Send</title></head>
 	<body>
 	<h1>Paso de parametros entre Servlets</h1>
-	<form action="/myServlet2.jsp">
+	<form action="/myServlet2">
 		<label for="fname">Nombre:</label><br>
 		<input type="text" id="fname" name="fname" value="Juan"><br>
 		<label for="lname">Apellidos:</label><br>
